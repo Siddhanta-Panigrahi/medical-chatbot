@@ -1,2 +1,13 @@
-# medical-chatbot
-I build a smart Medical Chatbot using open-source tools. We'll use HuggingFace for embeddings, Faiss CPU for vector storage, and Meta-lama with Streamlit for a conversational interface. Follow step-by-step guidance to create an efficient chatbot with no prior experience needed. Dive into conversational AI and healthcare!
+# 🩺 Smart Medical Chatbot
+Smart Medical Chatbot – An open-source AI chatbot for healthcare. Uses Hugging Face embeddings, FAISS for vector storage, and Meta-LLaMA with Streamlit for a smooth conversational interface. Designed for beginners with step-by-step guidance—no prior experience required.
+
+# 🚀 Features
+Step-by-step guidance for beginners
+
+No prior AI experience required
+
+Interactive and responsive healthcare chatbot
+
+Easily extendable for custom use cases
+
+Dive into conversational AI in healthcare with this project!
